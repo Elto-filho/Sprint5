@@ -3,7 +3,7 @@
 $host = 'localhost';       // Servidor do banco
 $db   = 'sistema_login';   // Nome do banco criado anteriormente
 $user = 'root';            // Usuário do MySQL
-$senha = 'Senai@118';       // Senha do usuário do MySQL
+$senha = 'Senai@118';      // Senha do usuário do MySQL
 $charset = 'utf8mb4';      // Recomendado para suportar emojis e caracteres especiais
 
 // DSN (Data Source Name)
